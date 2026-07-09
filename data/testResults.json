@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Exam 1 — Linear Equations & Inequalities",
+    "date": "2026-01-22",
+    "grade": 88,
+    "numCorrect": 44,
+    "totalQuestions": 50
+  },
+  {
+    "id": 2,
+    "title": "Exam 2 — Systems of Equations",
+    "date": "2026-02-19",
+    "grade": 92,
+    "numCorrect": 46,
+    "totalQuestions": 50
+  },
+  {
+    "id": 3,
+    "title": "Exam 3 — Polynomials & Factoring",
+    "date": "2026-03-18",
+    "grade": 85,
+    "numCorrect": 34,
+    "totalQuestions": 40
+  },
+  {
+    "id": 4,
+    "title": "Exam 4 — Rational Expressions",
+    "date": "2026-04-15",
+    "grade": 90,
+    "numCorrect": 27,
+    "totalQuestions": 30
+  },
+  {
+    "id": 5,
+    "title": "Exam 5 — Radicals & Quadratics",
+    "date": "2026-05-13",
+    "grade": 96,
+    "numCorrect": 48,
+    "totalQuestions": 50
+  }
+]
