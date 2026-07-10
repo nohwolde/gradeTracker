@@ -6,5 +6,13 @@
     "grade": 25,
     "numCorrect": 1,
     "totalQuestions": 2
+  }, 
+  {
+    "id": 4,
+    "title": "Exam 2 — Polynomials & Factoring Part 2",
+    "date": "2026-07-09",
+    "grade": 50,
+    "numCorrect": 2,
+    "totalQuestions": 4
   }
 ]
